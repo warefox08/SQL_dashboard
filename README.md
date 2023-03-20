@@ -1,4 +1,5 @@
-# SQL_dashboard
+# Chess Opening DashBoard
+
 Mainly SQL related code for database and datawarehousing
 
 This excel file contain chess data obtained from https://www.kaggle.com/datasets/datasnaek/chess 
